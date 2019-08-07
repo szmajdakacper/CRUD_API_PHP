@@ -18,9 +18,9 @@ Routes are defined in api_app/web.php<br>
 <hr>
 In folder Example is the easiest way to use this application,<br>
 consists of files:<br>
--<bold>C</bold>reate.php<br>
--<bold>R</bold>ead.php<br>
--<bold>U</bold>pdate.php<br>
--<bold>D</bold>elete.php<br>
+-<strong>C</strong>reate.php<br>
+-<strong>R</strong>ead.php<br>
+-<strong>U</strong>pdate.php<br>
+-<strong>D</strong>elete.php<br>
 <hr>
 <i>this application can be adapted to other databases and can be further developed</i>
